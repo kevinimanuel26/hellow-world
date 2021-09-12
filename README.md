@@ -1,2 +1,2 @@
-# hellow-world
-start from hello and become to be the world
+# hello-world
+start from hello and become the world
